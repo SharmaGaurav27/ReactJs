@@ -26,9 +26,6 @@ function Counter(){
 },[])
 return <div>
     <h1 id="text">{count}</h1>
-   {/*  <button onClick ={increaseCount}>Increase Count</button>
-    <button onClick ={dcreaseCount}>Decrease Count</button>
-    <button onClick ={resetCount}>Reset Count</button>  */}
   </div>
 }
 
